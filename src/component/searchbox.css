@@ -1,0 +1,19 @@
+.search_box{
+    margin-bottom: 50px;
+    display: flex;
+}
+#search_input{
+    width: 50%;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+    border-style: none; 
+    background: #fff;
+    margin: 10px auto;
+}
+input{
+    text-align: center;
+}
+input::placeholder{
+    text-align: center;
+}

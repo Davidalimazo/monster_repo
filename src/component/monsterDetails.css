@@ -1,0 +1,42 @@
+.monster_details{
+    min-height: 100vh;
+    background: #ddd;
+    display: flex;
+    align-content: center;
+    letter-spacing: 5px;
+}
+.img{
+    width: 35%;
+    height: 100%;
+    background: #fff;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-left: 10px;
+    margin-top: 50px;
+    padding: 15px;
+}
+.details{
+    margin: 40px 10px 0 30px;
+    align-content: right;
+    justify-content: end;
+
+}
+.details p, .details div{
+    margin-bottom: 15px;
+}
+.details p span{
+    font-size: 20px;
+    font-weight: 500;
+}
+.desc{
+    text-align: justify;
+    letter-spacing: 5px;
+}
+.desc h3{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
